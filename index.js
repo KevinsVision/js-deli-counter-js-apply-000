@@ -24,5 +24,4 @@ function currentLine(line) {
     }
       return string 
   }
-  
 }
